@@ -6,6 +6,7 @@ public class JavaProject2 {
 		System.out.println("New file here");
 		
 		System.out.println("Develop Branch");
+		System.out.println("Git Add here");
 
 	}
 
