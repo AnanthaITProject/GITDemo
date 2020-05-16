@@ -8,6 +8,12 @@ public class JavaProject1 {
 		
 		System.out.println(a+b);
 		System.out.println("Downloaded code have editted here");
+		
+		//---New added on updated pull code
+		System.out.println(a+b);
+		System.out.println(a+b);
+		System.out.println(a+b);
+		System.out.println(a+b);
 
 	}
 
